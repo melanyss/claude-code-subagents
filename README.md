@@ -31,28 +31,27 @@ This repository contains specialized subagents that extend Claude Code's capabil
 
 ## Available Subagents
 
-### Development & Architecture
-- **[backend-architect](backend-architect.md)** - Design RESTful APIs, microservice boundaries, and database schemas
-- **[frontend-developer](frontend-developer.md)** - Build React components, implement responsive layouts, and handle client-side state management
-- **[ui-ux-designer](ui-ux-designer.md)** - Create interface designs, wireframes, and design systems
-- **[mobile-developer](mobile-developer.md)** - Develop React Native or Flutter apps with native integrations
-- **[graphql-architect](graphql-architect.md)** - Design GraphQL schemas, resolvers, and federation
-- **[architect-reviewer](architect-review.md)** - Reviews code changes for architectural consistency and patterns
+📋 **63 specialized subagents** organized across **16 categories**
 
-### Data & AI
-- **[data-scientist](data-scientist.md)** - Data analysis expert for SQL queries, BigQuery operations, and data insights
-- **[data-engineer](data-engineer.md)** - Build ETL pipelines, data warehouses, and streaming architectures
-- **[ai-engineer](ai-engineer.md)** - Build LLM applications, RAG systems, and prompt pipelines
-- **[ml-engineer](ml-engineer.md)** - Implement ML pipelines, model serving, and feature engineering
-- **[mlops-engineer](mlops-engineer.md)** - Build ML pipelines, experiment tracking, and model registries
-- **[prompt-engineer](prompt-engineer.md)** - Optimizes prompts for LLMs and AI systems
+See the complete directory: [AGENTS.md](/AGENTS.md)
 
-### Business & Marketing
-- **[business-analyst](business-analyst.md)** - Analyze metrics, create reports, and track KPIs
-- **[content-marketer](content-marketer.md)** - Write blog posts, social media content, and email newsletters
-- **[sales-automator](sales-automator.md)** - Draft cold emails, follow-ups, and proposal templates
-- **[customer-support](customer-support.md)** - Handle support tickets, FAQ responses, and customer emails
-- **[legal-advisor](legal-advisor.md)** - Draft privacy policies, terms of service, disclaimers, and legal notices
+### Categories at a Glance
+- 🎯 **Orchestration** (8) - Multi-agent coordination, workflows, task distribution
+- 🔬 **Research** (4) - Market analysis, competitive intelligence, data research
+- ⚡ **Development** (6) - Core development, debugging, refactoring, tooling
+- 🏗️ **Architecture** (2) - System design, cloud architecture, code review
+- 🤖 **Data-AI-ML** (9) - Machine learning, data engineering, AI systems
+- ☁️ **DevOps-Infrastructure** (2) - Operations, networking, infrastructure automation
+- 💼 **Business** (4) - Customer success, legal, support, trend analysis
+- 🎨 **Design-UX** (5) - User experience, visual design, design systems
+- 📚 **Documentation** (3) - Technical writing, tutorials, API documentation
+- 🔒 **Security** (1) - Security auditing, vulnerability assessment
+- ⚡ **Performance** (1) - Performance optimization, load testing
+- 📱 **Mobile-Frontend** (3) - Frontend development, mobile apps, JavaScript
+- 🔧 **Backend** (9) - APIs, databases, microservices, server-side
+- 📋 **Management** (3) - Project management, product strategy, business analysis
+- 📢 **Sales-Marketing** (3) - Content marketing, sales automation, technical sales
+- 🚀 **MarTech** (7) - Marketing technology, automation, personalization
 
 ---
 
@@ -62,7 +61,7 @@ These subagents are automatically available when placed in `~/.claude/agents/` d
 
 ```bash
 cd ~/.claude
-git clone https://github.com/wshobson/agents.git
+git clone https://github.com/melanysft/claude-code-subagents.git agents
 ```
 
 ---
