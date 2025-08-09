@@ -2,7 +2,7 @@
 <br />
 <div align="center">
 <a href="https://img.shields.io/twitter/follow/MelanysFT?style=social"></a>
-[Twitter / X Follow](https://x.com/MelanysFT)
+[X Follow](https://x.com/MelanysFT)
 </div>
 <br/>
 
