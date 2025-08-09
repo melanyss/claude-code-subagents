@@ -2,8 +2,6 @@
 <br />
 <!-- ([X Follow](https://x.com/MelanysFT)) -->
 <!-- ((https://img.shields.io/twitter/follow/MelanysFT?style=social)) --> 
-<br/>
-
 ---
 
 # Claude Code SubAgents - Awesome Curated List
