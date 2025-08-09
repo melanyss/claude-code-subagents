@@ -1,7 +1,9 @@
 <img width="1500" height="500" alt="Group 32" src="/assets/melanysft_claude-code-subagents_collection.png" />
 <br />
 <div align="center">
-[Twitter/X Follow](https://img.shields.io/twitter/follow/MelanysFT?style=social)](https://x.com/MelanysFT)
+<a href="https://img.shields.io/twitter/follow/MelanysFT?style=social">
+[Twitter/X Follow](https://x.com/MelanysFT)
+</a>
 </div>
 <br/>
 
