@@ -1,7 +1,7 @@
 <img width="1500" height="500" alt="Group 32" src="/assets/melanysft_claude-code-subagents_collection.png" />
 <br />
-[comment]: <> ([X Follow](https://x.com/MelanysFT))
-[comment]: <> ((https://img.shields.io/twitter/follow/MelanysFT?style=social))
+<!-- ([X Follow](https://x.com/MelanysFT)) -->
+<!-- ((https://img.shields.io/twitter/follow/MelanysFT?style=social)) --> 
 <br/>
 
 ---
